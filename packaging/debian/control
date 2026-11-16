@@ -1,0 +1,9 @@
+Package: lh-compliance-engine
+Version: 0.1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Sameer Tawade <ops@logihertz.com>
+Homepage: https://www.logihertz.com
+Description: lh-compliance - Multi-Standard Control Maturity Crosswalk Function
+ Automated regulatory compliance crosswalk and control-maturity engine mapping technical security telemetry to SOC 2 Type II, ISO/IEC 27001:2022, CIS Controls v8, PCI-DSS v4.0, and CERT-In.
